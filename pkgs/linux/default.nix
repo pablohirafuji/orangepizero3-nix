@@ -2,6 +2,7 @@
   linuxManualConfig,
   lib,
   ubootTools,
+  ...
 }:
 linuxManualConfig {
   version = "6.1.31-sun50iw9";

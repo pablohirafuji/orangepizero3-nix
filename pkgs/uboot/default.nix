@@ -1,6 +1,7 @@
 {
   pkgs,
   buildUBoot,
+  ...
 }:
 buildUBoot rec {
   version = "2021.07-sunxi";
